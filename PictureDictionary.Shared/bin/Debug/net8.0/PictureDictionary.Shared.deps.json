@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PictureDictionary.Shared/1.0.0": {
+        "runtime": {
+          "PictureDictionary.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PictureDictionary.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

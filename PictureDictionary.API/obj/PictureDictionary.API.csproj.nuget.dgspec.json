@@ -1,0 +1,216 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CGIGEN_PROJECTS\\StaticProjects\\PictureDictionaryServer\\PictureDictionary.API\\PictureDictionary.API.csproj": {}
+  },
+  "projects": {
+    "D:\\CGIGEN_PROJECTS\\StaticProjects\\PictureDictionaryServer\\PictureDictionary.API\\PictureDictionary.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CGIGEN_PROJECTS\\StaticProjects\\PictureDictionaryServer\\PictureDictionary.API\\PictureDictionary.API.csproj",
+        "projectName": "PictureDictionary.API",
+        "projectPath": "D:\\CGIGEN_PROJECTS\\StaticProjects\\PictureDictionaryServer\\PictureDictionary.API\\PictureDictionary.API.csproj",
+        "packagesPath": "C:\\Users\\Ankit Vishwakarma\\.nuget\\packages\\",
+        "outputPath": "D:\\CGIGEN_PROJECTS\\StaticProjects\\PictureDictionaryServer\\PictureDictionary.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ankit Vishwakarma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\CGIGEN_PROJECTS\\StaticProjects\\PictureDictionaryServer\\PictureDictionary.Core\\PictureDictionary.Core.csproj": {
+                "projectPath": "D:\\CGIGEN_PROJECTS\\StaticProjects\\PictureDictionaryServer\\PictureDictionary.Core\\PictureDictionary.Core.csproj"
+              },
+              "D:\\CGIGEN_PROJECTS\\StaticProjects\\PictureDictionaryServer\\PictureDictionary.Infrastructure\\PictureDictionary.Infrastructure.csproj": {
+                "projectPath": "D:\\CGIGEN_PROJECTS\\StaticProjects\\PictureDictionaryServer\\PictureDictionary.Infrastructure\\PictureDictionary.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CGIGEN_PROJECTS\\StaticProjects\\PictureDictionaryServer\\PictureDictionary.Core\\PictureDictionary.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CGIGEN_PROJECTS\\StaticProjects\\PictureDictionaryServer\\PictureDictionary.Core\\PictureDictionary.Core.csproj",
+        "projectName": "PictureDictionary.Core",
+        "projectPath": "D:\\CGIGEN_PROJECTS\\StaticProjects\\PictureDictionaryServer\\PictureDictionary.Core\\PictureDictionary.Core.csproj",
+        "packagesPath": "C:\\Users\\Ankit Vishwakarma\\.nuget\\packages\\",
+        "outputPath": "D:\\CGIGEN_PROJECTS\\StaticProjects\\PictureDictionaryServer\\PictureDictionary.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ankit Vishwakarma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CGIGEN_PROJECTS\\StaticProjects\\PictureDictionaryServer\\PictureDictionary.Infrastructure\\PictureDictionary.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CGIGEN_PROJECTS\\StaticProjects\\PictureDictionaryServer\\PictureDictionary.Infrastructure\\PictureDictionary.Infrastructure.csproj",
+        "projectName": "PictureDictionary.Infrastructure",
+        "projectPath": "D:\\CGIGEN_PROJECTS\\StaticProjects\\PictureDictionaryServer\\PictureDictionary.Infrastructure\\PictureDictionary.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Ankit Vishwakarma\\.nuget\\packages\\",
+        "outputPath": "D:\\CGIGEN_PROJECTS\\StaticProjects\\PictureDictionaryServer\\PictureDictionary.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ankit Vishwakarma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\CGIGEN_PROJECTS\\StaticProjects\\PictureDictionaryServer\\PictureDictionary.Core\\PictureDictionary.Core.csproj": {
+                "projectPath": "D:\\CGIGEN_PROJECTS\\StaticProjects\\PictureDictionaryServer\\PictureDictionary.Core\\PictureDictionary.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

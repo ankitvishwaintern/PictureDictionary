@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "PictureDictionary.API.Controller.ConfigController",
+    "Method": "GetFirebaseConfig",
+    "RelativePath": "api/Config/firebase",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
