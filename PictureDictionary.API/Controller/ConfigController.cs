@@ -31,5 +31,20 @@ namespace PictureDictionary.API.Controller
                 return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
             }
         }
+
+        [HttpGet]
+        [Route("test")]
+        public IActionResult GetTestString()
+        {
+            try
+            {
+                return Ok("Sab MAJA MA!");
+            }
+            catch (System.Exception ex)
+            {
+                //logging to be added
+                return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
+            }
+        }
     }
 }
