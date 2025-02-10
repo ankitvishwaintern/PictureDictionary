@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PictureDictionary.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40280b71b861fe0701e5a5a33d68c8db1f998a0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PictureDictionary.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PictureDictionary.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,7 @@
+D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\stripe-sample-code\obj\Debug\net8.0\StripeExample.csproj.AssemblyReference.cache
+D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\stripe-sample-code\obj\Debug\net8.0\StripeExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\stripe-sample-code\obj\Debug\net8.0\StripeExample.AssemblyInfoInputs.cache
+D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\stripe-sample-code\obj\Debug\net8.0\StripeExample.AssemblyInfo.cs
+D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\stripe-sample-code\obj\Debug\net8.0\StripeExample.csproj.CoreCompileInputs.cache
+D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\stripe-sample-code\obj\Debug\net8.0\StripeExample.MvcApplicationPartsAssemblyInfo.cache
+D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\stripe-sample-code\obj\Debug\net8.0\StripeExample.sourcelink.json

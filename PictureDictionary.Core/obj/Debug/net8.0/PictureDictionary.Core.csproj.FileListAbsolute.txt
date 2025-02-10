@@ -20,3 +20,4 @@ D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.Core
 D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.Core\obj\Debug\net8.0\refint\PictureDictionary.Core.dll
 D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.Core\obj\Debug\net8.0\PictureDictionary.Core.pdb
 D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.Core\obj\Debug\net8.0\ref\PictureDictionary.Core.dll
+D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.Core\obj\Debug\net8.0\PictureDictionary.Core.sourcelink.json

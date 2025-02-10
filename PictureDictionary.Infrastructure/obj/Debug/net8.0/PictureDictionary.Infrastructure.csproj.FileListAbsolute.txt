@@ -28,3 +28,4 @@ D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.Infr
 D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.Infrastructure\obj\Debug\net8.0\refint\PictureDictionary.Infrastructure.dll
 D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.Infrastructure\obj\Debug\net8.0\PictureDictionary.Infrastructure.pdb
 D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.Infrastructure\obj\Debug\net8.0\ref\PictureDictionary.Infrastructure.dll
+D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.Infrastructure\obj\Debug\net8.0\PictureDictionary.Infrastructure.sourcelink.json

@@ -78,3 +78,8 @@ D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.API\
 D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.API\obj\Debug\net8.0\PictureDictionary.API.pdb
 D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.API\obj\Debug\net8.0\PictureDictionary.API.genruntimeconfig.cache
 D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.API\obj\Debug\net8.0\ref\PictureDictionary.API.dll
+D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.API\obj\Debug\net8.0\PictureDictionary.API.sourcelink.json
+D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.API\bin\Debug\net8.0\Stripe.net.dll
+D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll

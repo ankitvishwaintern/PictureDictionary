@@ -8,5 +8,55 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PictureDictionary.API.Controller.ConfigController",
+    "Method": "GetTestString",
+    "RelativePath": "api/Config/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PictureDictionary.API.Controller.PaymentsController",
+    "Method": "CheckOut",
+    "RelativePath": "api/Payments/checkout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PictureDictionary.API.Controller.PaymentsController",
+    "Method": "CreateSession",
+    "RelativePath": "api/Payments/createsession",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PictureDictionary.API.Controller.PaymentsController",
+    "Method": "Products",
+    "RelativePath": "api/Payments/products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PictureDictionary.API.Controller.PaymentsController",
+    "Method": "Webhook",
+    "RelativePath": "api/Payments/webhook",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]

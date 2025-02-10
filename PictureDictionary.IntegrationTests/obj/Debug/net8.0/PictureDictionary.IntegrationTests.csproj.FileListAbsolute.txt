@@ -196,3 +196,4 @@ D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.Inte
 D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.IntegrationTests\obj\Debug\net8.0\PictureDictionary.IntegrationTests.pdb
 D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.IntegrationTests\obj\Debug\net8.0\PictureDictionary.IntegrationTests.genruntimeconfig.cache
 D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.IntegrationTests\obj\Debug\net8.0\ref\PictureDictionary.IntegrationTests.dll
+D:\CGIGEN_PROJECTS\StaticProjects\PictureDictionaryServer\PictureDictionary.IntegrationTests\obj\Debug\net8.0\PictureDictionary.IntegrationTests.sourcelink.json
