@@ -107,7 +107,7 @@ namespace PictureDictionary.API.Controller
             var options = new SessionCreateOptions
             {
                 //SuccessUrl = "http://localhost:4200/StaticDictionary/payment-success",
-                SuccessUrl = "https://ankitvishwaintern.github.io/StaticDictionary/docs/browser/isSuccess=1&isfailed=0",
+                SuccessUrl = "https://ankitvishwaintern.github.io/StaticDictionary/docs/browser/?isSuccess=1&isfailed=0",
 
                 //CancelUrl = "http://localhost:4200/StaticDictionary/payment-cancel",
                 CancelUrl = "https://ankitvishwaintern.github.io/StaticDictionary/docs/browser/payment-cancel",
